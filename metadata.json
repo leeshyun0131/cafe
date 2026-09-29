@@ -1,0 +1,6 @@
+{
+  "name": "바이브 카페 (Vibe Cafe)",
+  "description": "따뜻한 감성의 바이브 카페 온라인 주문 및 메뉴 관리 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
